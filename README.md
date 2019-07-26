@@ -3,10 +3,12 @@ Demo for spring rest using gradle multi-module
 
 This application is use for multi-module with use of gradle
 
-# spring-rest-gradle-multi-module
-# -/webservice
-#    -company
-#    -product
+# Parent Child Project structure :
+
+spring-rest-gradle-multi-module
+ -webservice
+    -company
+    -product
 
 
 #To run app
